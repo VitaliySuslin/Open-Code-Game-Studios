@@ -16,6 +16,8 @@ commands, with the validation hooks moved into a plugin.**
 
 ### Added
 
+- A Russian `README.md`; the English version is now `README.en.md`, with a
+  language switcher between them.
 - `opencode.json` — loads `AGENTS.md`, the coordination/coding docs and all 14
   rules through `instructions`, registers `.opencode/skills` and the permission
   block.
